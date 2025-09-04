@@ -1,6 +1,6 @@
 <?php
 $nome = $_GET['nome'];
-$mensagem = "Boa noite $nome";
+$mensagem = "Boa Noite $nome";
 
 $num1 = 10;
 $num2 = 30;
